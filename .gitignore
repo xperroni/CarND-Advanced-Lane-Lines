@@ -1,2 +1,3 @@
 *.ods
 .directory
+.ipynb_checkpoints
